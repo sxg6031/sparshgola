@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sparshgola/static/css/main.d5fde77c.css",
-    "main.js": "/sparshgola/static/js/main.009c4d59.js",
+    "main.css": "/sparshgola/static/css/main.16761fa8.css",
+    "main.js": "/sparshgola/static/js/main.ced5df36.js",
     "static/js/787.6bcd4605.chunk.js": "/sparshgola/static/js/787.6bcd4605.chunk.js",
     "static/media/titanic.pdf": "/sparshgola/static/media/titanic.3cec3135a0b33bbc04d7.pdf",
     "static/media/Blue_Matrix.jpg": "/sparshgola/static/media/Blue_Matrix.51630511443a3fdf0a1f.jpg",
@@ -15,12 +15,12 @@
     "static/media/Slide6.JPG": "/sparshgola/static/media/Slide6.cebb30c0339abf214b8f.JPG",
     "static/media/Wellness.png": "/sparshgola/static/media/Wellness.c6e377f1aa85b3b11693.png",
     "static/media/Slide4.JPG": "/sparshgola/static/media/Slide4.230c164506795760fdce.JPG",
-    "static/media/Slide4.jpg": "/sparshgola/static/media/Slide4.230c164506795760fdce.jpg",
     "static/media/Opened Announcement.png": "/sparshgola/static/media/Opened Announcement.4176778444b27a07a708.png",
     "static/media/Slide3.JPG": "/sparshgola/static/media/Slide3.489c2c58c7aea512573d.JPG",
     "static/media/Dashboard.png": "/sparshgola/static/media/Dashboard.a2a886cfb778fab809a9.png",
     "static/media/Surveys.png": "/sparshgola/static/media/Surveys.889c0d79e5857d9a34e4.png",
     "static/media/Slide1.JPG": "/sparshgola/static/media/Slide1.7d1ab3f6d2f6b2a436e3.JPG",
+    "static/media/Slide1.jpg": "/sparshgola/static/media/Slide1.7d1ab3f6d2f6b2a436e3.jpg",
     "static/media/Login.png": "/sparshgola/static/media/Login.bb8927cb7234b3bc66e5.png",
     "static/media/flask-logo.svg": "/sparshgola/static/media/flask-logo.611b5611428e497086bc821da6f8511c.svg",
     "static/media/GitHub_Logo.png": "/sparshgola/static/media/GitHub_Logo.746ec8f0bc97208f903e.png",
@@ -36,12 +36,12 @@
     "index.html": "/sparshgola/index.html",
     "static/media/CSS_Logo.svg": "/sparshgola/static/media/CSS_Logo.b0696b45b1583f1dcd92f8fc11f764e1.svg",
     "static/media/HTML_Logo.svg": "/sparshgola/static/media/HTML_Logo.10080bf9eca0dcafeb4b353b2ce579ea.svg",
-    "main.d5fde77c.css.map": "/sparshgola/static/css/main.d5fde77c.css.map",
-    "main.009c4d59.js.map": "/sparshgola/static/js/main.009c4d59.js.map",
+    "main.16761fa8.css.map": "/sparshgola/static/css/main.16761fa8.css.map",
+    "main.ced5df36.js.map": "/sparshgola/static/js/main.ced5df36.js.map",
     "787.6bcd4605.chunk.js.map": "/sparshgola/static/js/787.6bcd4605.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5fde77c.css",
-    "static/js/main.009c4d59.js"
+    "static/css/main.16761fa8.css",
+    "static/js/main.ced5df36.js"
   ]
 }
