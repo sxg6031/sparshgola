@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sparshgola/static/css/main.ba830918.css",
-    "main.js": "/sparshgola/static/js/main.3858a3b9.js",
+    "main.js": "/sparshgola/static/js/main.e84d246a.js",
     "static/js/787.6bcd4605.chunk.js": "/sparshgola/static/js/787.6bcd4605.chunk.js",
     "static/media/titanic.pdf": "/sparshgola/static/media/titanic.3cec3135a0b33bbc04d7.pdf",
     "static/media/Blue_Matrix.jpg": "/sparshgola/static/media/Blue_Matrix.51630511443a3fdf0a1f.jpg",
@@ -37,11 +37,11 @@
     "static/media/CSS_Logo.svg": "/sparshgola/static/media/CSS_Logo.b0696b45b1583f1dcd92f8fc11f764e1.svg",
     "static/media/HTML_Logo.svg": "/sparshgola/static/media/HTML_Logo.10080bf9eca0dcafeb4b353b2ce579ea.svg",
     "main.ba830918.css.map": "/sparshgola/static/css/main.ba830918.css.map",
-    "main.3858a3b9.js.map": "/sparshgola/static/js/main.3858a3b9.js.map",
+    "main.e84d246a.js.map": "/sparshgola/static/js/main.e84d246a.js.map",
     "787.6bcd4605.chunk.js.map": "/sparshgola/static/js/787.6bcd4605.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba830918.css",
-    "static/js/main.3858a3b9.js"
+    "static/js/main.e84d246a.js"
   ]
 }
