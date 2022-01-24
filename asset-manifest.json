@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sparshgola/static/css/main.ba830918.css",
-    "main.js": "/sparshgola/static/js/main.a255d0d3.js",
+    "main.js": "/sparshgola/static/js/main.8f6e1deb.js",
     "static/js/787.6bcd4605.chunk.js": "/sparshgola/static/js/787.6bcd4605.chunk.js",
     "static/media/Blue_Matrix.jpg": "/sparshgola/static/media/Blue_Matrix.51630511443a3fdf0a1f.jpg",
     "static/media/Ripples.png": "/sparshgola/static/media/Ripples.7f58bba8b49becb9e0ca.png",
@@ -36,11 +36,11 @@
     "static/media/CSS_Logo.svg": "/sparshgola/static/media/CSS_Logo.b0696b45b1583f1dcd92f8fc11f764e1.svg",
     "static/media/HTML_Logo.svg": "/sparshgola/static/media/HTML_Logo.10080bf9eca0dcafeb4b353b2ce579ea.svg",
     "main.ba830918.css.map": "/sparshgola/static/css/main.ba830918.css.map",
-    "main.a255d0d3.js.map": "/sparshgola/static/js/main.a255d0d3.js.map",
+    "main.8f6e1deb.js.map": "/sparshgola/static/js/main.8f6e1deb.js.map",
     "787.6bcd4605.chunk.js.map": "/sparshgola/static/js/787.6bcd4605.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba830918.css",
-    "static/js/main.a255d0d3.js"
+    "static/js/main.8f6e1deb.js"
   ]
 }
