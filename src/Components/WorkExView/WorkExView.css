@@ -1,0 +1,15 @@
+.text {
+    color: aqua
+}
+
+h1, h2, li, p{
+    color: aqua
+}
+
+.points{
+    text-decoration: underline;
+}
+
+.link{
+    font-size: 200px;
+}

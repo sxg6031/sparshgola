@@ -1,23 +1,30 @@
-import logo from './logo.svg';
 import './App.css';
+import Box from '@mui/material/Box';
+import Typography from '@mui/material/Typography';
+import CardGallery from './Components/CardGallery/CardGallery';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+      <Box>
+        <h1 className='Name-Title'>Sparsh Gola</h1>
+      </Box>
+
+      <Box sx={{padding: "50px"}} className='Subtext-Box'>
+        <Typography variant='body1'
+        sx={{
+          fontSize: "20px"
+        }}
         >
-          Learn React
-        </a>
-      </header>
+          Hello! My name is Sparsh Gola. I love to solve real-life problems through coding. 
+          I truly believe that art and code are one and the same thing. 
+          Each line of code I used to craft my projects is like a brushstroke painting the results you will see below. 
+        </Typography>
+      </Box>
+
+      <Box>
+        <CardGallery />
+      </Box>
     </div>
   );
 }

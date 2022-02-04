@@ -1,0 +1,21 @@
+
+.Card {
+    border-style: solid;
+    border-width: 2px;
+    border-color: aqua;
+    transition: box-shadow 5s;
+}
+
+.Card:hover {
+    box-shadow: 0 0 50px rgb(5, 141, 175), 0 0 50px rgb(5, 141, 175), 0 0 50px rgb(5, 141, 175), 0 0 50px rgb(5, 141, 175);
+}
+
+.Card-Content {
+    color: white;
+    background-color: black;
+}
+
+.Card-Content:hover {
+    color: rgb(23, 43, 59);
+    background-color: aqua;
+}

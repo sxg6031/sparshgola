@@ -1,38 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Oooh+Baby&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&family=Megrim&display=swap');
+
+
 .App {
+  
+}
+
+.Name-Title {
+  /* font-family: 'Oooh Baby', cursive; */
+  font-size: 120px;
+  color: #fff;
   text-align: center;
+  animation: glow 2s ease-in-out infinite alternate, size 2s ease-in-out;
+  /* animation: size 2s ease-in-out; */
+  font-family: 'Megrim', cursive;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+@keyframes size {
+  0% {
+    font-size: 100px;
+  }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+  100% {
+    font-size: 120px;
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+@keyframes glow {
+  0% {
+    text-shadow: 0 0 10px #fff;
+  }
+  
+  100% {
+    text-shadow: 0 0 50px rgb(5, 141, 175), 0 0 50px rgb(5, 141, 175), 0 0 50px rgb(5, 141, 175), 0 0 50px rgb(5, 141, 175);
+  }
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Subtext-Box {
+  color: aqua;
+  margin: "10px";
 }

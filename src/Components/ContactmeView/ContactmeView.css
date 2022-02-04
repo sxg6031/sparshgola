@@ -1,0 +1,13 @@
+.text{
+    color: "aqua"
+}
+
+.box{
+    margin: 30px;
+}
+
+.card{
+    margin: auto;
+    background-color: orange;
+    padding: 20px;
+}
